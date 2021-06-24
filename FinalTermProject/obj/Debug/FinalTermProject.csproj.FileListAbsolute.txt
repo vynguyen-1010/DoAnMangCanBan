@@ -20,3 +20,14 @@ D:\DoAnLapTrinhMang-main\FinalTermProject\obj\Debug\FinalTermProject.csproj.Gene
 D:\DoAnLapTrinhMang-main\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
 D:\DoAnLapTrinhMang-main\FinalTermProject\obj\Debug\FinalTermProject.exe
 D:\DoAnLapTrinhMang-main\FinalTermProject\obj\Debug\FinalTermProject.pdb
+D:\Github\DoAnMangCanBan\FinalTermProject\bin\Debug\FinalTermProject.exe.config
+D:\Github\DoAnMangCanBan\FinalTermProject\bin\Debug\FinalTermProject.exe
+D:\Github\DoAnMangCanBan\FinalTermProject\bin\Debug\FinalTermProject.pdb
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.csprojAssemblyReference.cache
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.Dashboard.resources
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.Properties.Resources.resources
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.TCPClient.resources
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.csproj.GenerateResource.cache
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.csproj.CoreCompileInputs.cache
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.exe
+D:\Github\DoAnMangCanBan\FinalTermProject\obj\Debug\FinalTermProject.pdb
